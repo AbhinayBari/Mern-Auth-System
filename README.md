@@ -1,22 +1,23 @@
-# Mern Auth System.
+# MERN Auth System 🔐
 
-A simple authentication system built using MERN STACK (MongoDB, Express, React, Node.js).
+A full-stack authentication system built using MERN stack with user registration, login, and logout functionality.
 
-## Features .
+## 🚀 Features
+- User Registration
+- User Login
+- User Logout
+- Password Hashing using bcrypt
+- JWT Authentication
+- Protected Routes
 
--User Registration.
--User Login.
--JWT Authentication. 
--Protected Routes.
+## 🛠️ Tech Stack
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT, bcrypt
 
-## Tech Stack
--Frontend: React.
--Backend: Node.js, Express.js
--Database: MongoDB
--Auth: JWT
+## 🌐 Live Demo
+Frontend: https://your-vercel-link  
+Backend: https://your-render-link  
 
-## Setup Instructions 
-```bash
-git clone
-https://github.com/AbhinayBari/Mern-Auth-System.git
-cd Mern-Auth-System.
+## 📂 Project Structure
