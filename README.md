@@ -17,7 +17,7 @@ A full-stack authentication system built using MERN stack with user registration
 - Authentication: JWT, bcrypt
 
 ## 🌐 Live Demo
-Frontend: https://your-vercel-link  
-Backend: https://your-render-link  
+Frontend: https://mern-auth-system-iwkn.vercel.app/
+Backend: https://mern-auth-system-node.onrender.com
 
 ## 📂 Project Structure
